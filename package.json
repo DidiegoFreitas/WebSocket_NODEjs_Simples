@@ -1,0 +1,15 @@
+{
+  "name": "websocket_nodejs_simples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "socket": "node server_socket.js",
+    "client": "node server_client.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
